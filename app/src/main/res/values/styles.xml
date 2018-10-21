@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="main_icon_button">
+        <item name="android:padding">10dp</item>
+        <item name="com.cheng.game2358:textSize">18sp</item>
+        <item name="com.cheng.game2358:textColor">@color/text_white</item>
+        <item name="com.cheng.game2358:radius">20</item>
+        <item name="com.cheng.game2358:minWidth">210dp</item>
+        <item name="com.cheng.game2358:maxWidth">210dp</item>
+    </style>
+</resources>

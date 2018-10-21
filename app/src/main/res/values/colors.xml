@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#faf8ef</color>
+    <color name="colorPrimaryDark">#faf8ef</color>
+    <color name="colorAccent">#776e65</color>
+
+
+    <color name="text_title">#776e65</color>
+    <color name="text_classic">#FFD700</color>
+    <color name="text_time">#FF6347</color>
+    <color name="text_sub">#a1978d</color>
+
+    <color name="text_white">#f9f6f2</color>
+
+    <color name="bg_common">#967274</color>
+    <color name="bg_classic">#edc53f</color>
+    <color name="bg_time">#f67c5f</color>
+    <color name="lv">#e80bf031</color>
+    <color name="huang">#FFD700</color>
+    <color name="yin">#C6C0C0</color>
+    <color name="hong">#f97c07</color>
+    <color name="as">#f8f0b530</color>
+    <color name="ad">#fab5521c</color>
+    <color name="af">#b0a709</color>
+    <color name="ag">#f471a1e8</color>
+    <color name="lan">#7A67EE</color>
+    <color name="lanlan">#567ce3</color>
+    <color name="fen">#FF3E96</color>
+    <color name="shui">#76EEC6</color>
+    <color name="shua">#68228B</color>
+
+    <color name="bg_btn">#bbad9e</color>
+
+</resources>

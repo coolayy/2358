@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">2358</string>
+    
+    <string name="game_name">2358</string>
+    <string name="classic_mode">开始游戏</string>
+    <string name="time_trial">逆天模式</string>
+    <string name="How_to_play">关于 2358</string>
+    <string name="About_2048">游戏设置</string>
+    <string name="unit_move">%1$d moves</string>
+
+
+    <string name="sisi">4x4</string>
+    <string name="wuwu">5x5</string>
+    <string name="liuliu">6x6</string>
+    <string name="qiqi">7x7</string>
+    <string name="quedd">确定</string>
+
+    <string name="score">得分</string>
+    <string name="best">最高</string>
+    <string name="game_over">游戏结束!</string>
+    <string name="game_win">你赢啦!</string>
+
+    <string name="How_to_play_part1">斐波那契数列： 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,···，以此生长可黄金分割.</string>
+    <string name="How_to_play_part2">每两个相邻的黄金分割数相遇可相加得更大的数，看谁的金字塔造的最高</string>
+    <string name="How_to_play_part3">当宫格放满，没有相邻的黄金分割数相加，不能滑动时游戏结束</string>
+    <string name="How_to_play_part4">如有无法攀比的金字塔数请分享至1803550331@qq.com</string>
+    <string name="How_to_play_part5">连续点击2358可以开启2358生肖.</string>
+
+
+
+
+    <string name="game_name_ha">2358生肖</string>
+    <string name="How_to_play_ha">生肖传奇</string>
+    <string name="About_2048_ha">生肖设置</string>
+    <string name="dialog_title_ha">如果我们执意违犯天规?</string>
+    <string name="dialog_btn_pos">走金字塔</string>
+    <string name="dialog_btn_neg">羽化成仙</string>
+
+    <string name="score_ha">生肖分</string>
+    <string name="best_ha">最佳分</string>
+    <string name="game_over_ha">还要苦练自己的\n生肖魔法!</string>
+    <string name="game_win_ha">你可以和我\n谈笑风生了!</string>
+
+    <string name="How_to_play_part1_ha">十二生肖：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪。.</string>
+    <string name="How_to_play_part2_ha">当十二生肖中两个相邻的属相可相配合成下一个顺序的生肖</string>
+    <string name="How_to_play_part3_ha">当没有相邻的生肖相配时，游戏结束</string>
+    <string name="How_to_play_part4_ha">不同规格下完成十二生肖一轮配对，请分享至1803550331@qq.com</string>
+    <string name="How_to_play_part5_ha">连续点击2358生肖可以开启2358.</string>
+
+
+
+</resources>

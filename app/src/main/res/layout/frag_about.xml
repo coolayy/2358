@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:background="?attr/selectableItemBackground"
+            android:src="@drawable/ic_chevron_left_32dp"
+            android:contentDescription=""
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/text_about_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/About_2048"
+            android:textColor="@color/text_title"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+
+        <com.cheng.game2358.ui.view.IconButton
+            android:id="@+id/btn_chengsi"
+            style="@style/main_icon_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="88dp"
+            android:layout_marginBottom="16dp"
+            app:bgColor="@color/bg_time"
+            app:text="@string/sisi" />
+
+        <com.cheng.game2358.ui.view.IconButton
+            android:id="@+id/btn_chengwu"
+            style="@style/main_icon_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:bgColor="@color/hong"
+
+            app:text="@string/wuwu" />
+
+        <com.cheng.game2358.ui.view.IconButton
+            android:id="@+id/btn_chengliu"
+            style="@style/main_icon_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:bgColor="@color/bg_classic"
+            app:text="@string/liuliu" />
+
+        <com.cheng.game2358.ui.view.IconButton
+            android:id="@+id/btn_chengqi"
+            style="@style/main_icon_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="44dp"
+            app:bgColor="@color/lv"
+            app:text="@string/qiqi" />
+
+
+    <com.cheng.game2358.ui.view.IconButton
+            android:id="@+id/btn_quedd"
+            style="@style/main_icon_button"
+            android:layout_width="67dp"
+            android:layout_height="wrap_content"
+            app:bgColor="@color/bg_common"
+            app:text="@string/quedd" />
+
+
+
+
+
+
+</LinearLayout>
